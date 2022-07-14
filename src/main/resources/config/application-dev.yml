@@ -34,7 +34,7 @@ spring:
     type: com.zaxxer.hikari.HikariDataSource
     url: jdbc:mariadb://localhost:3306/freeBoard?useLegacyDatetimeCode=false&serverTimezone=UTC
     username: root
-    password:
+    password: th0523
     hikari:
       poolName: Hikari
       auto-commit: false
@@ -46,7 +46,7 @@ spring:
   jpa:
   liquibase:
     # Remove 'faker' if you do not want the sample data to be loaded automatically
-    contexts: dev, faker
+    contexts: dev
   mail:
     host: localhost
     port: 25

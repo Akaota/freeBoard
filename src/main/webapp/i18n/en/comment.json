@@ -1,0 +1,32 @@
+{
+  "freeBoardApp": {
+    "comment": {
+      "home": {
+        "title": "Comments",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Comment",
+        "createOrEditLabel": "Create or edit a Comment",
+        "notFound": "No Comments found"
+      },
+      "created": "A new Comment is created with identifier {{ param }}",
+      "updated": "A Comment is updated with identifier {{ param }}",
+      "deleted": "A Comment is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Comment {{ id }}?"
+      },
+      "detail": {
+        "title": "Comment"
+      },
+      "id": "Id",
+      "depth": "Depth",
+      "comment": "Comment",
+      "readCnt": "Read Cnt",
+      "goodCnt": "Good Cnt",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "comment": "Comment",
+      "post": "Post",
+      "parent": "Parent"
+    }
+  }
+}

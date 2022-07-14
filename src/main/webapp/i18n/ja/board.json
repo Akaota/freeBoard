@@ -1,0 +1,28 @@
+{
+  "freeBoardApp": {
+    "board": {
+      "home": {
+        "title": "Boards",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Board を追加",
+        "createOrEditLabel": "Boardを追加または編集",
+        "notFound": "No Boards found"
+      },
+      "created": "A new Board is created with identifier {{ param }}",
+      "updated": "A Board is updated with identifier {{ param }}",
+      "deleted": "A Board is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Board {{ id }}を削除してもよろしいですか？"
+      },
+      "detail": {
+        "title": "Board"
+      },
+      "id": "Id",
+      "title": "Title",
+      "category": "Category",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "post": "Post"
+    }
+  }
+}

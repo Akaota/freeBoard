@@ -1,0 +1,32 @@
+{
+  "freeBoardApp": {
+    "comment": {
+      "home": {
+        "title": "Comments",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Comment を追加",
+        "createOrEditLabel": "Commentを追加または編集",
+        "notFound": "No Comments found"
+      },
+      "created": "A new Comment is created with identifier {{ param }}",
+      "updated": "A Comment is updated with identifier {{ param }}",
+      "deleted": "A Comment is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Comment {{ id }}を削除してもよろしいですか？"
+      },
+      "detail": {
+        "title": "Comment"
+      },
+      "id": "Id",
+      "depth": "Depth",
+      "comment": "Comment",
+      "readCnt": "Read Cnt",
+      "goodCnt": "Good Cnt",
+      "createdAt": "Created At",
+      "createdBy": "Created By",
+      "comment": "Comment",
+      "post": "Post",
+      "parent": "Parent"
+    }
+  }
+}
